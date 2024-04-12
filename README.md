@@ -1,17 +1,17 @@
-# Тестовое задание Kodland
+# Тестовое задание [Kodland](https://www.kodland.org/ru)
 
-Задание на позицию преподаватель на Python.
+Задание на позицию преподаватель на Python. Изображения взяты с сайта [kenney.nl](https://kenney.nl/assets/pixel-line-platformer)
+![Снимок экрана 2024-04-12 190329](https://github.com/Forluc/Test_task_Kodland/assets/75582238/3f82a685-53b0-4597-aa5c-9d71305738c2)
 
 ## Запуск
 
-Для запуска сайта вам понадобится Python третьей версии.
+Для запуска сайта вам понадобится [Python третьей версии](https://www.python.org/).
 
 Скачайте код с GitHub. Установите зависимости:
 
 ```sh
 $ pip install -r requirements.txt
 ```
-
 
 Запустите игру:
 
